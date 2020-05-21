@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 11/25/2011 -->
+<!-- -->
+<category><pattern>fiebre</pattern>
+<template>Hemos guardado fiebre como sintoma</template>
+</category>
+<category><pattern>dolor cabeza</pattern>
+<template>Hemos guardado dolor cabeza como sintoma</template>
+</category>
+<category><pattern>dolor abdominal</pattern>
+<template>Hemos guardado dolor abdominal como sintoma</template>
+</category>
+<category><pattern>dolor muscular</pattern>
+<template>Hemos guardado dolor muscular como sintoma</template>
+</category>
+<category><pattern>escalofrios</pattern>
+<template>Hemos guardado escalofrios como sintoma</template>
+</category>
+<category><pattern>vomitos</pattern>
+<template>Hemos guardado dolor abdominal como sintoma</template>
+</category>
+
+
+
+
+<category><pattern>paralisis</pattern>
+<template>Hemos guardado paralisis como sintoma</template>
+</category>
+<category><pattern>debilidad</pattern>
+<template>Hemos guardado debilidad como sintoma</template>
+</category>
+<category><pattern>alucinaciones</pattern>
+<template>Hemos guardado dolor abdominal como sintoma</template>
+</category>
+<category><pattern>quistes</pattern>
+<template>Hemos guardado quistes como sintoma</template>
+</category>
+<category><pattern>costras</pattern>
+<template>Hemos guardado costras como sintoma</template>
+</category>
+<category><pattern>pustulas</pattern>
+<template>Hemos guardado pustulas como sintoma</template>
+</category>
+<category><pattern>confusion</pattern>
+<template>Hemos guardado confusion como sintoma</template>
+</category>
+<category><pattern>dolor orina</pattern>
+<template>Hemos guardado dolor orina como sintoma</template>
+</category>
+
+
+
+<category><pattern>sequedad garganta</pattern>
+<template>Hemos guardado sequedad garganta como sintoma</template>
+</category>
+<category><pattern>nauseas</pattern>
+<template>Hemos guardado nauseas como sintoma</template>
+</category>
+<category><pattern>sarpullidos</pattern>
+<template>Hemos guardado sarpullidos como sintoma</template>
+</category>
+<category><pattern>confusion</pattern>
+<template>Hemos guardado confusion como sintoma</template>
+</category>
+
+
+<category><pattern>tos</pattern>
+<template>Hemos guardado tos como sintoma</template>
+</category>
+<category><pattern>fatiga</pattern>
+<template>Hemos guardado fatiga como sintoma</template>
+</category>
+<category><pattern>hemorragia nasal</pattern>
+<template>Hemos guardado hemorragia nasal como sintoma</template>
+</category>
+</aiml>
+
+
+
+
+https://github.com/fastcoding/aiml-en-us-foundation-alice.v1-6
+
+https://github.com/fastcoding/aiml-en-us-foundation-alice.v1-6/blob/master/badanswer.aiml
+
+http://oa.upm.es/43327/3/TFG_SERGIO_RODRIGUEZ_ROA.pdf
